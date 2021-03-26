@@ -1,0 +1,669 @@
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H09M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H54M27S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H58M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H52M31S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H11M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H07M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H00M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H33M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H08M14S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H33M05S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d15H46M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d22H35M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d21H19M41S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H04M05S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d18H10M54S label_amount 3 != len(signals) 11
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H02M05S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H26M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H07M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H55M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H22M24S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H31M03S label_amount 15 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d21H29M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d22H34M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H28M13S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H43M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d15H46M34S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H56M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H32M41S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d13H50M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H47M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H42M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H38M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H35M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d18H53M00S label_amount 18 != len(signals) 23
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H08M26S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d20H51M41S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d18H18M53S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H36M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H15M55S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H28M03S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d18H27M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H23M07S label_amount 6 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H00M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H29M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H24M44S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m25d16H36M42S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H30M42S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H12M33S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H29M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H21M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d11H19M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H19M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H07M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H47M31S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H34M48S label_amount 3 != len(signals) 4
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H33M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m14d14H41M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H20M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H43M18S label_amount 7 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H53M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H14M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d10H28M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H32M15S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H31M22S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d19H44M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H39M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H30M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H13M27S label_amount 5 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d17H16M42S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H18M26S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H29M53S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H49M43S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H33M47S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H26M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H14M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H25M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H15M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H47M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H13M12S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H48M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H44M19S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H48M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d18H58M52S label_amount 17 != len(signals) 21
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H45M20S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H09M06S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H38M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H39M15S label_amount 6 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d15H30M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H26M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H03M28S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H35M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H45M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H01M43S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H50M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d14H54M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H44M15S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m27d21H59M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H01M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d16H55M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m09d20H36M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H44M47S label_amount 6 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H10M05S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H23M57S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H21M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H42M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H43M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m09d20H41M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H21M19S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H07M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m25d08H33M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H43M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H40M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d19H33M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H06M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H30M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H20M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H22M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H16M05S label_amount 0 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d17H11M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H04M12S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H06M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H44M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H26M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H42M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H44M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d20H59M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H17M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d20H44M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H48M45S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d14H45M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H29M15S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d15H23M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H01M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d17H02M02S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m27d21H29M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d21H04M10S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H25M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H42M09S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H25M37S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H49M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H18M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H51M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d21H01M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d10H16M02S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d21H04M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H16M19S label_amount 2 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H25M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H26M02S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H17M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d15H56M15S label_amount 2 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H32M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H55M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H48M13S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H20M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d22H25M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H49M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d20H01M03S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H37M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H16M26S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H42M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H49M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H00M43S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H07M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H40M32S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H38M03S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H02M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H21M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H45M24S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H32M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H57M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H18M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H10M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H29M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H26M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m10d16H42M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H31M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H31M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H34M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d21H15M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d19H57M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H20M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H51M18S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H29M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H24M32S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H33M33S label_amount 13 != len(signals) 19
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H01M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H09M12S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H56M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H18M43S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H46M53S label_amount 5 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H36M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H06M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H39M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H49M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H23M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H27M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H17M14S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H29M20S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H40M26S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H42M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H50M12S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H04M03S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d22H08M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d22H44M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H36M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H57M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m25d16H32M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H36M34S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H55M18S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H10M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H28M19S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H41M42S label_amount 1 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m27d22H02M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H56M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H18M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d10H22M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H35M59S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H10M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H06M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H39M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H59M31S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H12M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H13M40S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H54M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d13H17M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H06M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d19H08M55S label_amount 17 != len(signals) 24
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H36M33S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H40M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d19H57M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d14H59M41S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H48M32S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H34M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d20H29M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H57M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H05M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H58M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d16H34M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d19H54M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H19M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H46M59S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H30M34S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H27M15S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H38M21S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H57M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m14d14H39M53S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H20M53S label_amount 9 != len(signals) 10
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H42M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H53M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H16M30S label_amount 6 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H50M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H27M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H10M13S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H08M34S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H02M09S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H19M44S label_amount 6 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H55M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H21M32S label_amount 6 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H08M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H50M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H23M10S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H02M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H22M25S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d19H48M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d13H32M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H36M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H02M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H51M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H25M29S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H10M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H37M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d13H44M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H27M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H49M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H50M18S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H16M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H58M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H11M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d18H57M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H34M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H13M59S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H02M56S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H03M13S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H53M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H14M41S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H59M35S label_amount 1 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H42M49S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d15H50M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H48M54S label_amount 9 != len(signals) 11
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H28M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H10M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H31M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d18H05M05S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H25M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H00M42S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H44M33S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H33M42S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H47M50S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H42M21S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H15M37S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H13M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H19M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H38M58S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H28M52S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d17H34M24S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d14H55M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H02M29S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m10d17H05M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H14M42S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H09M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H30M05S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H28M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H24M43S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H16M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d22H03M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H54M23S label_amount 4 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d14H36M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H38M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H29M51S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H00M04S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d17H15M29S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H19M53S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H54M21S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H16M28S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H58M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H10M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H33M01S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H31M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H44M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d10H47M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H36M55S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H23M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H50M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H44M13S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H25M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H52M50S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H17M23S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d17H36M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H33M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H09M15S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H55M05S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H56M34S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d19H15M28S label_amount 17 != len(signals) 22
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H25M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H22M17S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d17H54M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H52M45S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H13M12S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H20M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m25d16H34M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H20M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H59M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H21M36S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H09M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d19H59M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H39M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d14H50M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H03M40S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H48M02S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H46M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H14M02S label_amount 2 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H39M04S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H20M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H07M08S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H12M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H52M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H22M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H17M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H50M20S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d18H04M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H10M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H34M48S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d15H51M03S label_amount 26 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H30M34S label_amount 7 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H55M27S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H32M54S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d17H18M47S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H39M37S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H30M58S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d18H24M16S label_amount 13 != len(signals) 17
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d21H34M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H53M47S label_amount 6 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H25M20S label_amount 3 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d11H12M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H21M13S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H50M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H05M21S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H56M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H49M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H17M02S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H59M20S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d18H20M50S label_amount 2 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m10d15H14M32S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d22H16M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H05M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H03M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H13M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H28M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H06M11S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d18H45M20S label_amount 11 != len(signals) 22
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H44M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H45M24S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H08M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H56M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m22d16H16M56S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H00M04S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H15M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H14M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H06M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H55M26S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d17H35M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H32M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H01M14S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H44M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d17H35M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m10d16H09M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H38M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d19H03M17S label_amount 13 != len(signals) 23
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H55M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H38M39S label_amount 19 != len(signals) 24
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H18M49S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d22H21M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H31M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H21M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H04M12S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d22H22M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H32M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d19H51M30S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d17H01M44S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H56M43S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H39M30S label_amount 13 != len(signals) 15
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H11M29S label_amount 9 != len(signals) 11
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d21H01M20S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H45M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H44M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H59M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H35M00S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H09M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d15H52M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d14H49M46S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H17M56S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H04M43S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H54M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m27d22H08M12S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H29M12S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H57M42S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H39M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H30M19S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H23M03S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H54M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H46M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H40M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H11M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H23M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H44M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H07M07S label_amount 6 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H04M38S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H14M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H00M42S label_amount 3 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H24M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H58M48S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d20H06M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H40M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H21M27S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H08M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H41M52S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m27d21H37M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m26d10H18M03S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d10H54M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d16H30M09S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H48M35S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H31M32S label_amount 0 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m05d15H49M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m13d22H03M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H32M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H55M07S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d21H18M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d21H07M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d21H11M40S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H05M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H08M10S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H17M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d22H13M08S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d15H27M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H46M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m25d09H30M41S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m24d11H53M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H20M32S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H16M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d19H49M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H37M56S label_amount 11 != len(signals) 14
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H46M20S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H05M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d10H49M37S label_amount 5 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H59M27S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m09d20H38M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H24M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H45M47S label_amount 8 != len(signals) 11
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H38M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H30M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H54M18S label_amount 4 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H18M05S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H18M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H59M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d21H39M17S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d18H13M06S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d17H58M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d19H41M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H52M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H41M19S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H36M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d21H52M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H51M54S label_amount 7 != len(signals) 8
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H25M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H39M34S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H27M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d17H42M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d16H13M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H01M16S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H35M00S label_amount 3 != len(signals) 4
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H13M40S label_amount 1 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H47M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d20H46M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H21M36S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d20H06M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H42M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H51M16S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H30M15S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H28M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H42M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H20M04S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H24M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d17H20M21S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d17H02M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H38M03S label_amount 3 != len(signals) 4
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H17M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H39M58S label_amount 3 != len(signals) 4
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d11H02M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H46M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d18H17M37S label_amount 1 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m19d16H00M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H37M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H25M05S label_amount 7 != len(signals) 10
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H26M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d18H50M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H20M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d11H21M43S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d21H43M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H05M01S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H36M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H47M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m05d16H55M47S label_amount 9 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d17H03M52S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H58M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H19M18S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H38M38S label_amount 21 != len(signals) 22
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H42M59S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H17M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d16H46M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H12M42S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d14H47M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d16H36M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H16M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H56M04S label_amount 0 != len(signals) 1
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d22H48M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H40M14S label_amount 7 != len(signals) 10
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H54M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H14M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H47M20S label_amount 10 != len(signals) 12
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d17H14M45S label_amount 4 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H54M20S label_amount 0 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H17M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m10d15H56M57S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H26M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H22M51S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m11d14H08M47S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H47M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H33M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m20d15H32M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d16H50M43S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d17H33M09S label_amount 1 != len(signals) 5
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H45M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H10M03S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H32M33S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H13M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d20H03M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H07M39S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H06M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H22M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H59M24S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H17M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H28M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H48M52S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d10H02M09S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H29M53S label_amount 5 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m25d16H29M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d19H53M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d16H13M30S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d22H01M42S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m04d20H32M53S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H14M29S label_amount 3 != len(signals) 11
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d15H31M29S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H08M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d20H30M02S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d22H04M51S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d22H57M48S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H34M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H05M01S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H26M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H18M35S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d18H24M56S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m30d09H54M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H59M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H22M36S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H18M55S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m05d15H49M33S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m22d16H09M41S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H31M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H43M47S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d16H26M17S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d09H54M31S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d16H28M41S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d16H36M15S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d22H03M08S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m09d20H39M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d15H39M02S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H28M13S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y05m19d16H09M38S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d15H52M20S label_amount 2 != len(signals) 3
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m28d11H26M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d15H46M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d19H44M45S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H58M11S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H10M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d16H23M38S label_amount 4 != len(signals) 6
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H33M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H07M53S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d19H22M54S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d18H27M03S label_amount 6 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d22H08M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d14H42M14S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H23M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d11H27M59S not len(signals) == 0 but not os.path.isfile(label_path)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H01M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m20d17H19M20S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H25M08S label_amount 3 != len(signals) 4
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d20H52M10S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m08d16H36M28S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m28d17H34M41S label_amount 4 != len(signals) 7
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m29d15H01M44S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H22M32S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H00M00S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d19H50M06S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d15H49M03S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m10d21H09M25S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H34M13S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m19d23H54M50S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H41M30S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d17H28M43S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m12d20H45M58S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m08d20H00M23S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d20H10M57S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m06d21H25M34S label_amount 1 != len(signals) 2
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m15d10H57M04S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y03m26d16H45M40S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m09d21H29M22S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m13d22H22M32S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y06m07d17H27M52S not topics_to_check.issubset(topics_contained)
+/home/birl-spai-ubuntu14/Desktop/dataset_cleaning/raw/bags/experiment_at_2018y04m02d19H53M41S not topics_to_check.issubset(topics_contained)

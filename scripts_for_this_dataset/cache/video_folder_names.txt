@@ -1,0 +1,2 @@
+/home/sklaw/Codes/birl_anomaly_dataset/scripts_for_this_dataset/impl/data_for_test/videos/experiment_at_2018y04m02d20H23M03S.mp4
+/home/sklaw/Codes/birl_anomaly_dataset/scripts_for_this_dataset/impl/data_for_test/videos/experiment_at_2018y03m28d20H01M03S.mp4
